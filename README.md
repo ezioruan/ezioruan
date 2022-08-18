@@ -57,7 +57,7 @@ A sample of my recent articles:
 
 [1]: https://twitter.com/ezioruan
 [2]: https://github.com/ezioruan
-[3]: https://www.linkedin.com/in/ezio-ruan-89078b164/
+[3]: https://www.linkedin.com/in/ezio-ruan-89078b164
 
 
 <!-- Resources -->
