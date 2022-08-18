@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/ezioruan/ezioruan/master/readme_header.png "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/ezioruan/ezioruan/master/readme_header.png "Header")](https://ezioruan.github.io)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/ezioruan/ezioruan/master/wave.gif" width="30px" height="30px" />
 
@@ -23,7 +23,7 @@ My name is Ezio Ruan and I'm a software developer/DevOps engineer. I'm from Chin
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [ezioruan.github.io](https://ezioruan.github.io)
 
 A sample of my recent articles:
 
