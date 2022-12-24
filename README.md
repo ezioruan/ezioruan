@@ -30,6 +30,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Build high availability architecture in oracle cloud](http://example.com/2022/08/10/build-high-availability-architecture-in-oracle-cloud/)
+- [how to acquire ssl certificate for oracle cloud loadbalcer](http://example.com/2022/07/27/how-to-acquire-ssl-certificate-for-oracle-cloud/)
+- [How to do data migration](http://example.com/2022/07/18/how-to-do-data-migration/)
+- [Develop APISIX plugin via Golang](http://example.com/2022/03/08/develop-apisix-plugin-via-go/)
+- [resize disk sise for ubuntu instance in Oracle Cloud](http://example.com/2022/02/08/resize-disk-on-ubuntu-oracle-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ## &#x1f4c8; GitHub Stats
