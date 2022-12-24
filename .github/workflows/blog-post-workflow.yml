@@ -14,5 +14,5 @@ jobs:
       - name: Pull in recent blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "4"
-          feed_list: "http://ezioruan.github.io/rss"
+          max_post_count: "5"
+          feed_list: "https://ezioruan.github.io/atom.xml"
