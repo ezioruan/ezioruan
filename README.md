@@ -37,6 +37,12 @@ A sample of my recent articles:
 - [resize disk sise for ubuntu instance in Oracle Cloud](http://example.com/2022/02/08/resize-disk-on-ubuntu-oracle-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
+## :tophat: Presentation & talks 
+- [API First Design](https://fastapi-api-first.netlify.app)
+- [TDD Development](https://fastapi-tdd.netlify.app)
+- [Time travel Testing for backend](https://back-2-the-future.netlify.app)
+- [Develop APISIX plugin via Golang] https://www.youtube.com/watch?v=YRxZbdqw3ro&t=55s
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ezioruan/ezioruan">
