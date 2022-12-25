@@ -41,7 +41,7 @@ A sample of my recent articles:
 - [API First Design](https://fastapi-api-first.netlify.app)
 - [TDD Development](https://fastapi-tdd.netlify.app)
 - [Time travel Testing for backend](https://back-2-the-future.netlify.app)
-- [Develop APISIX plugin via Golang] https://www.youtube.com/watch?v=YRxZbdqw3ro&t=55s
+- [Develop APISIX plugin via Golang](https://www.youtube.com/watch?v=YRxZbdqw3ro)
 
 ## &#x1f4c8; GitHub Stats
 
