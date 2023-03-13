@@ -33,8 +33,8 @@ A sample of my recent articles:
 - [Build high availability architecture in oracle cloud](https://ezioruan.github.io/2022/08/10/build-high-availability-architecture-in-oracle-cloud/)
 - [how to acquire ssl certificate for oracle cloud loadbalcer](https://ezioruan.github.io/2022/07/27/how-to-acquire-ssl-certificate-for-oracle-cloud/)
 - [How to do data migration](https://ezioruan.github.io/2022/07/18/how-to-do-data-migration/)
+- [How to Configure VLANs and DHCP using dnsmasq and veth pairs in Linux](https://ezioruan.github.io/2022/07/10/How_to_Configure_VLANs_and_DHCP_using_dnsmasq_and_veth_pairs_in_Linux/)
 - [Develop APISIX plugin via Golang](https://ezioruan.github.io/2022/03/08/develop-apisix-plugin-via-go/)
-- [resize disk sise for ubuntu instance in Oracle Cloud](https://ezioruan.github.io/2022/02/08/resize-disk-on-ubuntu-oracle-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :tophat: Presentation & talks 
