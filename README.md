@@ -30,11 +30,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy a Fast One-Click Face Swapping Software on Hugging Face](https://ezioruan.github.io/2023/07/04/deploy-your-first-faceswap-app-in-hugging-face/)
 - [Build high availability architecture in oracle cloud](https://ezioruan.github.io/2022/08/10/build-high-availability-architecture-in-oracle-cloud/)
 - [how to acquire ssl certificate for oracle cloud loadbalcer](https://ezioruan.github.io/2022/07/27/how-to-acquire-ssl-certificate-for-oracle-cloud/)
 - [How to do data migration](https://ezioruan.github.io/2022/07/18/how-to-do-data-migration/)
 - [How to Configure VLANs and DHCP using dnsmasq and veth pairs in Linux](https://ezioruan.github.io/2022/07/10/How_to_Configure_VLANs_and_DHCP_using_dnsmasq_and_veth_pairs_in_Linux/)
-- [Develop APISIX plugin via Golang](https://ezioruan.github.io/2022/03/08/develop-apisix-plugin-via-go/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :tophat: Presentation & talks 
