@@ -43,14 +43,6 @@ A sample of my recent articles:
 - [Time travel Testing for backend](https://back-2-the-future.netlify.app)
 - [Develop APISIX plugin via Golang](https://www.youtube.com/watch?v=YRxZbdqw3ro)
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/ezioruan/ezioruan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezioruan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/ezioruan/ezioruan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ezioruan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="EzioRuan's GitHub Stats" />
-</a>
 
 
 <!-- links to social media icons -->
