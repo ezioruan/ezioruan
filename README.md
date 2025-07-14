@@ -30,11 +30,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my recent articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [[No Title] - Post](https://ezioruan.github.io/2025/07/12/docker-best-practices/)
+- [Beyond Basic Prompts: Understanding Retrieval-Augmented Generation &lpar;RAG&rpar; in AI Apps](https://ezioruan.github.io/2024/04/22/understanding-retrieval-augmented-generation/)
 - [Use Fauxpilot as an alternative to GitHub Copilot for offline code assistance in VSCode and Vim.](https://ezioruan.github.io/2024/04/17/use_fauxpilot_as_github_copilot_alternative/)
-- [How to Deploy a Fast One-Click Face Swapping Software on Hugging Face](https://ezioruan.github.io/2023/07/04/deploy-your-first-faceswap-app-in-hugging-face/)
-- [Build high availability architecture in oracle cloud](https://ezioruan.github.io/2022/08/10/build-high-availability-architecture-in-oracle-cloud/)
-- [how to acquire ssl certificate for oracle cloud loadbalcer](https://ezioruan.github.io/2022/07/27/how-to-acquire-ssl-certificate-for-oracle-cloud/)
-- [How to do data migration](https://ezioruan.github.io/2022/07/18/how-to-do-data-migration/)
+- [The New King of Python Packaging? A First Look at `uv`](https://ezioruan.github.io/2024/03/15/a-first-look-at-uv/)
+- [Building LLM Apps Without the Hassle: An Introduction to Dify and FastGPT](https://ezioruan.github.io/2024/02/20/building-llm-apps-with-dify-and-fastgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 ## :tophat: Presentation & talks 
